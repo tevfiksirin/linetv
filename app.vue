@@ -1,5 +1,7 @@
 <template>
   <div>
-    <Hero />
+    <Header />
+    <NuxtPage />
+
   </div>
 </template>
