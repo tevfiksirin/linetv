@@ -1,7 +1,5 @@
 <template>
     <div>
-        <Header />
-        <Linkler />
-
+        <Home />
     </div>
 </template>

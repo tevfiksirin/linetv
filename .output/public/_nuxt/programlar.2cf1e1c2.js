@@ -1,1 +1,0 @@
-import{a as e,b as t,o as s,e as a}from"./entry.20c8822b.js";const c={},o={class:"flex items-center justify-center w-full h-screen bg-slate-500"},r=a("h1",{class:"text-4xl text-white"},"Yap\u0131m A\u015Famas\u0131nda ...",-1),n=[r];function _(l,i){return s(),t("div",o,n)}const f=e(c,[["render",_]]);export{f as default};
