@@ -1,0 +1,2 @@
+import{a as t,b as s,o,e}from"./entry.9947c559.js";const a={},l={class:"flex items-center justify-center w-full max-h-screen p-0 bg-slate-500"},c=e("div",{class:"relative w-full",style:{"padding-bottom":"56.25%",overflow:"hidden"}},[e("iframe",{style:{position:"absolute"},src:"https://player.socialsmart.tv/linetv/",width:"100%",height:"100%",frameborder:"0",scrolling:"auto",allowfullscreen:""},`
+            `)],-1),r=[c];function n(i,d){return o(),s("div",l,r)}const _=t(a,[["render",n]]);export{_ as default};
