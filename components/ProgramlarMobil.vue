@@ -30,7 +30,7 @@ export default {
       imgData: [],
       postsUrl: 'https://www.linehaber.com.tr/wp-json/wp/v2/posts?tags=174',
       postsData: {
-        per_page: 3,
+        per_page: 2,
         page: 1
       },
       imgUrl: 'https://www.linehaber.com.tr/wp-json/wp/v2/media/',
