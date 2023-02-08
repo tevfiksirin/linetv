@@ -1,9 +1,9 @@
 <template>
 
 <div class="containerIframe"> 
-  <iframe class="object-cover bg-transparent responsive-iframe" src="https://player.socialsmart.tv/linetv/" allowfullscreen="true" ></iframe>
+  <iframe class="object-cover bg-transparent responsive-iframe" src="https://player.socialsmart.tv/linetv/" allowfullscreen="allowfullscreen" ></iframe>
 </div>
-<!-- /wp:html -->
+
 
 </template>
 <style>
