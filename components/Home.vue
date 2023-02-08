@@ -19,7 +19,7 @@
                 </div>
                 <div class="flex justify-between gap-4">
                     <div class="w-7/12">
-                        <Hero />
+
                     </div>
                     <div class="w-4/12">
                         <Programlar />
