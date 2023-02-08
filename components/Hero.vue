@@ -1,7 +1,7 @@
 <template>
 
 <div class="containerIframe"> 
-  <iframe class="object-cover bg-transparent responsive-iframe" src="https://player.socialsmart.tv/linetv/" allowfullscreen="allowfullscreen" ></iframe>
+  <iframe class="object-cover bg-transparent responsive-iframe" src="https://player.socialsmart.tv/linetv/" allowfullscreen="true" ></iframe>
 </div>
 
 
@@ -23,5 +23,6 @@
   width: 100%;
   height: 100%;
   transform: scale(1.03, 1.03);
+
 }
 </style>

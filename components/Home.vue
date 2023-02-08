@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="hidden md:block">
+        <div class="hidden lg:block">
             <div class="flex flex-col h-screen gap-4 pl-20 pr-20 bg-secondary-500 ">
                 <div class="flex justify-between gap-4 pt-12">
                     <div class="flex flex-col justify-between w-7/12 h-52">
@@ -28,7 +28,7 @@
                 </div>
             </div>
         </div>
-        <div class="block h-screen p-2 md:hidden bg-secondary-500">
+        <div class="block h-screen p-2 lg:hidden bg-secondary-500">
             <div class="mb-8 logo">
                 <div class="w-20 mt-4">
                     <img class="object-cover" src="~/assets/img/linelogo.png" alt="">
