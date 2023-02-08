@@ -19,7 +19,7 @@
                 </div>
                 <div class="flex justify-between gap-4">
                     <div class="w-7/12">
-
+                        <Hero />
                     </div>
                     <div class="w-4/12">
                         <Programlar />
@@ -35,7 +35,7 @@
                 </div>
             </div>
             <div class="w-full">
-                <Hero />
+                <HeroMobil />
             </div>
             <div class="mt-8">
                 <img class="w-40" src="~/assets/img/linehaberlogoS.png" alt="">
