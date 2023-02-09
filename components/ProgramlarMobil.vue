@@ -5,7 +5,7 @@
       <div class="flex flex-col gap-6 post-list">
         <article v-for="post in posts" :key="post.id" class="post">
           <div class="post-content">
-            <a :href="post.link" class="flex h-24 gap-2 bg-white">
+            <a :href="post.link" target="_blank" class="flex h-24 gap-2 bg-white">
               <img :src="imgData[post.id]" class="object-cover" />
               <h2 class="p-3 font-bold">{{ post.title.rendered }}</h2>
             </a>
