@@ -7,7 +7,7 @@
           <div class="post-content">
             <a :href="post.link" target="_blank" class="flex h-24 gap-2 bg-white">
               <img :src="imgData[post.id]" class="object-cover" />
-              <h2 class="p-3 font-bold">{{ post.title.rendered }}</h2>
+              <h2 class="p-3 font-medium">{{ post.title.rendered }}</h2>
             </a>
 
           </div>
