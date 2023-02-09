@@ -8,7 +8,7 @@ export default defineNuxtConfig({
       preload: true,
       families: {
          'Raleway': {
-            wght: [300, 400, 500, 600],
+            wght: [300, 400, 500, 600, 800],
           },
           subsets: 'latin-ext',
       },
