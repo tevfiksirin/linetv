@@ -26,11 +26,16 @@
                   Gizlilik Politikası
                 </NuxtLink>
               </li>
-              <li>
+              <li class="mb-2">
                 <NuxtLink to="/kullanimSartnamesi" class="text-gray-600 hover:text-gray-800">
                 Kullanım Şartnamesi
               </NuxtLink>
-              </li>              
+              </li>    
+              <li class="mb-2">
+                <NuxtLink to="/nasilizlerim" class="text-gray-600 hover:text-gray-800">
+                Nasıl İzlerim
+              </NuxtLink>
+              </li>                          
             </ul>
           </div>
           <div>
