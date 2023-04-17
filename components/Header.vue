@@ -14,7 +14,7 @@
 
       <div class="w-full md:block md:w-auto" id="navbar-default">
         <ul
-          class="flex justify-end p-0 font-medium md:p-0 md:flex-row md:mt-0 md:bg-white "
+          class="flex justify-end gap-2 p-0 font-medium md:p-0 md:flex-row md:mt-0 md:bg-white"
         >
           <li>
             <NuxtLink
