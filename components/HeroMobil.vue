@@ -1,7 +1,7 @@
 <template>
 
 <div class="containerIframe"> 
-  <iframe class="object-cover bg-transparent responsive-iframe" src="https://player.socialsmart.tv/linetv/" allowfullscreen="true" ></iframe>
+  <iframe class="object-cover bg-transparent responsive-iframe" src="https://www.youtube.com/embed/v-enQmYBAME" allowfullscreen="true" ></iframe>
 </div>
 
 
