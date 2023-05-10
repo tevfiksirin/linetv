@@ -5,10 +5,10 @@
       <div class="flex flex-col justify-between h-full post-list">
         <article v-for="post in posts" :key="post.id" class="post">
           <div class="post-content">
-            <a :href="post.link" target="_blank" class="flex h-24 gap-2 bg-white">
+            <NuxtLink :to="post.link" target="_blank" class="flex h-24 gap-2 bg-white">
               <img :src="imgData[post.id]" class="object-cover" />
               <h2 class="p-2 font-extrabold">{{ post.title.rendered }}</h2>
-            </a>
+            </NuxtLink>
 
           </div>
         </article>
