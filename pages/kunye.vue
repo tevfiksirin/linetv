@@ -1,8 +1,8 @@
 <template>
   <Header />
   <div class="container px-4 mx-auto">
-    <article class="max-w-none format lg:format-lg">
-    <h2 class="has-text-color wp-block-heading" style="color: #fbae15">
+    <article class="max-w-2xl mx-auto format lg:format-lg">
+    <h2 class="text-center has-text-color wp-block-heading" style="color: #fbae15">
       <span style="color: #000000"><br />Kuruluş Unvanı</span>
     </h2>
     <p>B.E.R.K RADYO TV YAYINCILIK ve REKLAM TİCARET SANAYİ ANONİM ŞİRKETİ</p>

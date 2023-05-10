@@ -1,8 +1,8 @@
 <template>
     <Header />
     <div class="container px-4 mx-auto">
-    <article class="max-w-none format lg:format-lg">
-    <h1 class="">Gizlilik Politikası</h1>
+    <article class="max-w-2xl mx-auto format lg:format-lg">
+    <h1 class="text-center">Gizlilik Politikası</h1>
     <p>
       İşbu Gizlilik ve Kişisel Verilerin Korunması Politikası, Berk Radyo
       Yayıncılık A.Ş. (Bundan böyle kısaca “LİNETV” olarak anılacaktır)

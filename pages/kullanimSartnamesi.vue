@@ -1,8 +1,8 @@
 <template>
   <Header />
   <div class="container px-4 mx-auto">
-    <article class="max-w-none format lg:format-lg">
-      <h1 class="">Kullanım Şartnamesi</h1>
+    <article class="max-w-2xl mx-auto format lg:format-lg">
+      <h1 class="text-center">Kullanım Şartnamesi</h1>
       <p>Aşağıdaki maddeleri uygulama konusunda duyarlılığınızı bekliyoruz:</p>
       <p>
         <strong>Hakaret – Kişisel Bilgiler:</strong>&nbsp;İfade özgürlüğünü
