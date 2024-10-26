@@ -1,28 +1,11 @@
 <template>
 
-<div class="containerIframe">
-    <iframe
-      id="youtube"
-      class="object-cover bg-transparent responsive-iframe"
-      src="https://player.socialsmart.tv/linetv/"
-      allowfullscreen="true"
-    ></iframe>
-  </div>
+<div class="containerIframe"> 
+  <iframe class="object-cover bg-transparent responsive-iframe" src="https://player.socialsmart.tv/linetv/" allowfullscreen="true" ></iframe>
+</div>
 
 
 </template>
-<script setup lang="ts">
-import { onMounted } from 'vue';
-
-onMounted(() => {
-  const videoId = 'EKSYnFvR2lM'; // YouTube video ID'si
-  const youtubeIframe = document.getElementById('youtube') as HTMLIFrameElement;
-
-  if (youtubeIframe) {
-    youtubeIframe.setAttribute('src', `https://www.youtube.com/embed/${videoId}`);
-  }
-});
-</script>
 <style>
 .containerIframe {
   position: relative;
